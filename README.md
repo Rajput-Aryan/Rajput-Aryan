@@ -12,21 +12,17 @@ I'd rather ship something that holds up than something that looks good and break
 
 ## 🚀 Featured Projects
 
-### [tilt-drive](https://github.com/Rajput-Aryan/tilt-drive)
+### [tilt-drive](https://github.com/Rajput-Aryan/tilt-drive) `ESP32` `MQTT` `Real-time Dashboard`
 ESP32 + MPU6050 tilt-sensor steering simulation with a live web dashboard, MQTT telemetry streaming, and a 360° arena visualization — pitch controls speed, roll controls steering, in real time.
-`ESP32` `MQTT` `Real-time Dashboard`
 
-### [iiot-fleet-gateway](https://github.com/Rajput-Aryan/iiot-fleet-gateway)
+### [iiot-fleet-gateway](https://github.com/Rajput-Aryan/iiot-fleet-gateway) `React` `Node.js` `PostgreSQL` `MQTT` `Docker`
 Industrial IoT gateway for onboarding, authenticating, and monitoring a fleet of sensor devices — CSV-based provisioning, MQTT broker-level auth, and a live React dashboard with remote sampling control.
-`React` `Node.js` `PostgreSQL` `MQTT` `Docker`
 
-### [academic-deadline-assistant](https://github.com/Rajput-Aryan/academic-deadline-assistant)
+### [academic-deadline-assistant](https://github.com/Rajput-Aryan/academic-deadline-assistant) `Flask` `Transformers` `Local LLM`
 AI-powered assistant that tracks academic deadlines from natural language input, with Google Classroom sync and a local LLM chatbot for homework questions.
-`Flask` `Transformers` `Local LLM`
 
-### [youtube-shorts-bot](https://github.com/Rajput-Aryan/youtube-shorts-bot)
+### [youtube-shorts-bot](https://github.com/Rajput-Aryan/youtube-shorts-bot) `N8N` `Whisper` `Groq/LLaMA` `FFmpeg`
 Fully automated pipeline that finds, transcribes, clips, and uploads AI/Tech YouTube Shorts daily using Whisper and Groq/LLaMA.
-`N8N` `Whisper` `Groq/LLaMA` `FFmpeg`
 
 ---
 
