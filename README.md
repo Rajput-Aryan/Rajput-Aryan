@@ -1,4 +1,4 @@
-💫 About Me:
+# 💫 About Me:
 
 Final-year BTech CS & Business Systems student at MIT-WPU.
 
@@ -79,6 +79,7 @@ Fully automated pipeline that finds, transcribes, clips, and uploads AI/Tech You
 
 ---
 
-## 📫 Connect
+## 🌐 Socials:
 
-[LinkedIn](https://linkedin.com/in/aryan-rajput-69b7912b2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-rajput-69b7912b2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.rajput@example.com)
