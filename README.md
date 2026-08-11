@@ -12,7 +12,7 @@ I'd rather ship something that holds up than something that looks good and break
 
 ## 🚀 Featured Projects
 
-### [tilt-drive](https://github.com/Rajput-Aryan/tilt-drive) `ESP32` `MQTT` `Real-time Dashboard`
+### [ESP32-Tilt-Steering](https://github.com/Rajput-Aryan/tilt-drive) `ESP32` `MQTT` `Real-time Dashboard`
 ESP32 + MPU6050 tilt-sensor steering simulation with a live web dashboard, MQTT telemetry streaming, and a 360° arena visualization — pitch controls speed, roll controls steering, in real time.
 
 ### [iiot-fleet-gateway](https://github.com/Rajput-Aryan/iiot-fleet-gateway) `React` `Node.js` `PostgreSQL` `MQTT` `Docker`
